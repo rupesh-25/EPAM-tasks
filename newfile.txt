@@ -2,3 +2,5 @@ We have to perform 2 commits on the feature branch and then merge those commits 
 So would add two lines, each for one commit.
 
 1)First commit
+
+2)Second commit
